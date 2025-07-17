@@ -1,5 +1,5 @@
-# anastasiia-portfolio
-This repo is for personal mini-project and exercises.
+# Python CLI mini project
+This repo is for personal mini-project.
 
 ## Repository structure
 1. *exercises* - folder for exercises, finished during classes
