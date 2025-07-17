@@ -1,0 +1,24 @@
+espresso
+americano
+latte
+cappuccino
+flat white
+macchiato
+mocha
+cold brew
+iced latte
+iced americano
+chai latte
+matcha latte
+hot chocolate
+green tea
+earl grey tea
+peppermint tea
+lemon ginger tea
+black tea
+sparkling water
+still water
+white wine
+red wine
+milk
+almond milk

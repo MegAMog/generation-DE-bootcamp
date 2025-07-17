@@ -1,0 +1,3 @@
+customer_first_name,customer_last_name,customer_address,customer_phone_number,courier_id,order_status,products_ids
+Kate,Smith,"46 Empire Way, London",07264563698,0,new,"1,2"
+Anna,Smith,"45 Way, London",07255636987,4,new,"1,10"
